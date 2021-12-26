@@ -8,4 +8,7 @@
 - ketik : node [nama file ektensi .js]
 - contoh : node read.js, lalu enter
 
-
+### Screenshot program:
+- ![img](https://github.com/raissaputra/CRUD_Node.js_Mysql/blob/main/assets/create-table.png)
+- ![img](https://github.com/raissaputra/CRUD_Node.js_Mysql/blob/main/assets/read-table.png)
+- ![img](https://github.com/raissaputra/CRUD_Node.js_Mysql/blob/main/assets/read.png)
